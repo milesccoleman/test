@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /test/index3.html
+Disallow: /index3.html
